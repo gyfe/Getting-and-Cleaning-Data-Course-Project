@@ -4,15 +4,13 @@ Download source data from here https://d396qusza40orc.cloudfront.net/getdata%2Fp
 The R Script:
 
 
-1. Merges the training test setsinto one data set
+1. Merges the training test sets into one data set
 
 2. Extracts the measurements of the mean and the standard deviation    
 
 3. Gives the activites descriptive names
 
-4. Gives the variables appropriate names
-
-5. Creates a tidy Data Set
+4. Creates a tidy Data Set
 
 
 ## About variables:   
