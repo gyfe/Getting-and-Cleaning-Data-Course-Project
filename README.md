@@ -4,8 +4,8 @@ This repository hosts the R code and documentation files for the Data Science's 
 
 ## Files
 
-`CodeBook.md` describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
+`CodeBook.md` explains the code logic.
 
-`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+`run_analysis.R` contains the program code.
 
-The output of the 5th step is called `secTidySet.txt`, and uploaded in the course project's form.
+`TidySet.txt` is a second, independent tidy data set with the average of each variable for each activity and each subject.
